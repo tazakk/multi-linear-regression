@@ -1,3 +1,10 @@
 # multi-linear-regression
-Uses the dataset Beijing PM2.5 Data from the UCI Machine Learning Repository with 13 attributes. File runs for local copy of dataset, will need to update filepath to run on different systems.
-Implemented the Gradient Descent process of a linear regression using partial derivatives to move towards a minimum. Used the Root Mean Square Error (RMSE) as the Cost Function.
+
+## Description
+Python script that predicts the air quality in Beijing from a dataset with 13 attributes using a multi-linear regression.\
+Cost function: RMSE\
+Uses partial derivatives of the cost function to move towards a minimum (Gradient Descent)\
+
+
+## References
+Beijing PM2.5 Data from the UCI Machine Learning Repository
